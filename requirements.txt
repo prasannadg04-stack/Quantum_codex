@@ -1,0 +1,6 @@
+mediapipe==0.10.35
+opencv-python
+pyautogui
+numpy
+vosk
+sounddevice
